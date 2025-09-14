@@ -1,0 +1,29 @@
+# Node / JS
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build folders
+dist/
+build/
+
+# env / secrets
+.env
+*.env
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Subfolders
+client/node_modules/
+client/build/
+server/node_modules/
+server/build/
+
+# Logs and coverage
+*.log
+coverage/
